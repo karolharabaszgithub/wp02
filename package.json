@@ -1,0 +1,20 @@
+{
+  "name": "wpe-dynamic-wordpress",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "wpe-build": "next build",
+    "start": "next start --port 8080"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "graphql": "^15.4.0",
+    "graphql-tag": "^2.11.0",
+    "next": "10.0.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "string-strip-html": "^7.0.3"
+  }
+}

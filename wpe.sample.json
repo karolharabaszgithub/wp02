@@ -1,0 +1,12 @@
+{
+  "name": "wpe-dynamic-wordpress",
+  "repo": "konrad-glowacki/wpe-dynamic-wordpress",
+  "environments": [
+    {
+      "name": "development",
+      "branch": "main",
+      "wp_environment_name": "",
+      "secrets": []
+    }
+  ]
+}
